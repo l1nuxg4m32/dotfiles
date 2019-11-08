@@ -1,1 +1,0 @@
-export HISTSIZE=100000
